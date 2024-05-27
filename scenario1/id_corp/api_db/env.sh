@@ -1,0 +1,5 @@
+export DRIVER="mysql"
+export USER="root"
+export PASSWORD="password"
+export DBNAME="IDs"
+export SERVERPORT="5000"
